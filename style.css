@@ -1,0 +1,57 @@
+<style>
+body {
+    background-color: #ff66b2;
+    color: #fff;
+}
+
+.container {
+    background: rgb(255, 255, 255);
+    border-radius: 15px;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.btn-custom {
+    color: white;
+    font-weight: bold;
+}
+
+.table {
+    background-color: #444;
+    color: white;
+}
+
+.table thead {
+    background-color: #222;
+}
+
+.btn-danger,
+.btn-danger:hover {
+    background-color: #ff66b2;
+    border-color: #ff66b2;
+}
+
+.btn-warning,
+.btn-warning:hover {
+    background-color: #ffcc00;
+    border-color: #ffcc00;
+}
+
+.btn-success,
+.btn-success:hover {
+    background-color: #33cc33;
+    border-color: #33cc33;
+}
+
+.btn-info,
+.btn-info:hover {
+    background-color: #3399ff;
+    border-color: #3399ff;
+}
+
+.text-pink {
+    color: #ff66b2;
+}
+
+
+</style>
